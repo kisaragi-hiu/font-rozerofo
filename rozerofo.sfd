@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1493493463
+ModificationTime: 1493494015
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 26 13 9
+WinInfo: 39 13 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 256 9
+BeginChars: 256 18
 
 StartChar: T
 Encoding: 84 84 0
@@ -247,8 +247,18 @@ EndSplineSet
 Validated: 33
 EndChar
 
+StartChar: e
+Encoding: 101 101 5
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 2 69 N 1 0 0 1 0 0 2
+EndChar
+
 StartChar: J
-Encoding: 74 74 5
+Encoding: 74 74 6
 Width: 677
 VWidth: 0
 Flags: HW
@@ -278,7 +288,7 @@ Validated: 33
 EndChar
 
 StartChar: I
-Encoding: 73 73 6
+Encoding: 73 73 7
 Width: 673
 VWidth: 0
 Flags: HW
@@ -312,7 +322,7 @@ Validated: 33
 EndChar
 
 StartChar: H
-Encoding: 72 72 7
+Encoding: 72 72 8
 Width: 673
 VWidth: 0
 Flags: HW
@@ -349,7 +359,7 @@ Validated: 33
 EndChar
 
 StartChar: A
-Encoding: 65 65 8
+Encoding: 65 65 9
 Width: 673
 VWidth: 0
 Flags: HW
@@ -385,6 +395,86 @@ SplineSet
  333 793 366 785 423 787 c 4
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: f
+Encoding: 102 102 10
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 3 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: t
+Encoding: 116 116 11
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 0 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: a
+Encoding: 97 97 12
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 9 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: h
+Encoding: 104 104 13
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 8 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: i
+Encoding: 105 105 14
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 7 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: j
+Encoding: 106 106 15
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 6 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: k
+Encoding: 107 107 16
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 4 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: l
+Encoding: 108 108 17
+Width: 1024
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 1 76 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
