@@ -1,0 +1,249 @@
+SplineFontDB: 3.0
+FontName: Rozerofo
+FullName: Rozerofo
+FamilyName: Rozerofo
+Weight: Rozerofo
+Copyright: Copyright (c) 2017, Kisaragi Hiu
+UComments: "2017-4-29: Created with FontForge (http://fontforge.org)"
+Version: 0.1
+ItalicAngle: -31.4
+UnderlinePosition: -102.4
+UnderlineWidth: 51.2
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 811 1269689650 7253454]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1493454996
+ModificationTime: 1493477789
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2017, Kisaragi Hiu <flyingfeather1501@gmail.com>,+AAoA-with Reserved Font Name Rozerofo.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 13 13 9
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 5
+
+StartChar: T
+Encoding: 84 84 0
+Width: 673
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+430 787 m 4
+ 506 790 514 784 629 775 c 4
+ 651 773 636 678 630 657 c 4
+ 627 648 584 648 577 655 c 4
+ 565 667 591 708 573 709 c 4
+ 468 714 422 740 420 705 c 4
+ 402 415 447 186 544 142 c 4
+ 575 128 556 225 564 228 c 4
+ 566 229 627 216 631 209 c 4
+ 637 200 662 11 590 35 c 4
+ 426 89 347 202 339 736 c 4
+ 338 793 373 785 430 787 c 4
+179 467 m 4
+ 179 467 246 460 242 451 c 4
+ 206 364 189 320 170 273 c 4
+ 126 167 93 80 119 79 c 4
+ 231 74 267 78 265 93 c 4
+ 263 112 265 703 265 736 c 4
+ 265 763 176 741 169 741 c 4
+ 112 741 105 737 76 737 c 4
+ 64 737 77 681 66 680 c 4
+ 37 676 27 673 19 677 c 4
+ 7 683 6 788 38 784 c 4
+ 130 772 210 801 288 792 c 4
+ 311 789 334 768 333 759 c 4
+ 330 705 335 275 335 30 c 4
+ 335 17 43 14 26 40 c 4
+ 8 68 48 112 179 467 c 4
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: L
+Encoding: 76 76 1
+Width: 677
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+273 717 m 4
+ 278 754 158 736 158 736 c 6
+ 146 736 158 650 147 649 c 4
+ 118 645 96 646 95 655 c 4
+ 94 665 82 781 113 784 c 4
+ 207 793 214 801 292 792 c 4
+ 315 789 338 766 337 757 c 4
+ 311 508 257 181 47 45 c 4
+ 27 32 30 187 38 287 c 4
+ 38 291 79 288 92 293 c 4
+ 106 298 89 164 101 184 c 4
+ 196 342 231 404 273 717 c 4
+434 787 m 4
+ 510 790 518 784 633 775 c 4
+ 655 773 643 91 637 70 c 4
+ 634 61 591 61 584 68 c 4
+ 574 78 595 706 578 709 c 4
+ 479 727 437 734 422 719 c 4
+ 408 705 398 122 416 114 c 4
+ 434 106 463 109 477 115 c 4
+ 487 119 484 171 494 180 c 4
+ 507 192 520 186 532 186 c 4
+ 544 186 540 163 541 135 c 4
+ 542 102 538 65 539 63 c 4
+ 545 54 369 58 344 66 c 4
+ 319 74 351 202 343 736 c 4
+ 342 793 377 785 434 787 c 4
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: E
+Encoding: 69 69 2
+Width: 673
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+426 350 m 0
+ 427 321 418 133 436 97 c 0
+ 445 79 572 102 573 115 c 0
+ 579 183 575 323 571 362 c 0
+ 570 374 426 366 426 350 c 0
+166 729 m 0
+ 110 735 115 729 86 729 c 0
+ 27 729 -27 778 38 784 c 0
+ 130 793 210 801 288 792 c 0
+ 311 789 334 768 333 759 c 0
+ 330 705 314 688 286 660 c 0
+ 250 624 225 622 224 565 c 0
+ 222 485 347 478 326 401 c 0
+ 285 251 138 119 173 111 c 0
+ 222 100 224 129 302 127 c 0
+ 327 126 325 45 300 41 c 0
+ 199 26 13 5 36 43 c 0
+ 155 238 229 338 244 397 c 0
+ 254 438 124 512 140 573 c 0
+ 152 618 162 640 196 672 c 0
+ 278 749 202 725 166 729 c 0
+430 787 m 0
+ 506 790 514 784 629 775 c 0
+ 651 773 636 678 630 657 c 0
+ 627 648 584 648 577 655 c 0
+ 565 667 591 708 573 709 c 0
+ 468 714 421 727 419 692 c 0
+ 410 513 414 473 422 439 c 0
+ 429 409 484 438 517 439 c 0
+ 551 440 627 455 631 430 c 0
+ 635 409 660 43 605 42 c 0
+ 512 40 373 6 365 61 c 0
+ 356 122 342 531 339 736 c 0
+ 338 793 373 785 430 787 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: F
+Encoding: 70 70 3
+Width: 673
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+142 709 m 4
+ 142 412 144 115 85 41 c 4
+ 61 11 10 61 32 96 c 4
+ 69 154 53 527 56 719 c 4
+ 56 750 51 807 92 808 c 4
+ 164 810 121 777 151 774 c 4
+ 327 757 394 771 571 761 c 4
+ 607 759 654 782 650 746 c 4
+ 644 691 647 649 646 589 c 4
+ 645 556 580 548 573 581 c 4
+ 545 718 587 672 573 688 c 4
+ 543 722 459 692 364 698 c 4
+ 339 700 337 591 338 451 c 4
+ 338 430 568 444 568 422 c 4
+ 568 417 556 200 654 48 c 4
+ 658 42 614 11 589 44 c 4
+ 475 189 512 363 493 359 c 4
+ 448 350 340 368 340 362 c 4
+ 342 253 342 119 335 30 c 4
+ 267 43 l 4
+ 255 58 268 397 263 698 c 4
+ 263 726 142 717 142 709 c 4
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: K
+Encoding: 75 75 4
+Width: 673
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+607 795 m 4
+ 613 727 554 223 642 82 c 4
+ 646 76 589 40 585 46 c 4
+ 466 241 535 647 529 731 c 4
+ 528 751 377 740 377 737 c 4
+ 376 717 424 160 343 47 c 4
+ 333 33 290 117 294 126 c 4
+ 361 254 296 787 299 795 c 4
+ 304 811 606 803 607 795 c 4
+95 118 m 4
+ 95 115 248 129 273 116 c 4
+ 300 102 286 48 280 46 c 4
+ 261 40 31 36 31 45 c 4
+ 33 164 21 776 27 795 c 4
+ 32 811 237 800 243 802 c 4
+ 247 803 246 649 234 617 c 4
+ 229 604 204 614 187 622 c 4
+ 172 629 182 752 177 755 c 4
+ 155 768 89 756 89 753 c 4
+ 86 699 95 363 95 118 c 4
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
