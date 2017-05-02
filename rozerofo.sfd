@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1493723323
+ModificationTime: 1493723399
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -93,6 +93,7 @@ SplineSet
  330 705 335 275 335 30 c 0
  335 17 13 26 29 53 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: L
@@ -131,6 +132,7 @@ SplineSet
  319 74 351 202 343 736 c 0
  342 793 377 785 434 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: E
@@ -176,6 +178,7 @@ SplineSet
  356 122 342 531 339 736 c 0
  338 793 373 785 430 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: F
@@ -209,6 +212,7 @@ SplineSet
  255 58 268 397 263 698 c 0
  263 726 141 717 142 709 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: K
@@ -240,6 +244,7 @@ SplineSet
  154 755 103 739 103 736 c 0
  100 682 110 359 110 114 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: e
@@ -250,6 +255,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 2 69 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: J
@@ -279,6 +285,7 @@ SplineSet
  320 76 351 202 343 736 c 0
  342 793 377 785 434 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: I
@@ -312,6 +319,7 @@ SplineSet
  562 808 626 777 627 763 c 4
  636 604 631 318 626 43 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: H
@@ -348,6 +356,7 @@ SplineSet
  607 651 616 454 616 258 c 0
  616 220 625 100 648 40 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: A
@@ -384,6 +393,7 @@ SplineSet
  367 84 328 520 332 736 c 0
  333 793 366 785 423 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: f
@@ -394,6 +404,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 3 70 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: t
@@ -404,6 +415,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 0 84 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: a
@@ -414,6 +426,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 9 65 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: h
@@ -424,6 +437,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 8 72 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: i
@@ -434,6 +448,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 7 73 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: j
@@ -444,6 +459,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 6 74 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: k
@@ -454,6 +470,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 4 75 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: l
@@ -464,6 +481,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 1 76 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -485,6 +503,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: one
@@ -508,6 +527,7 @@ SplineSet
  206 710 193 723 206 742 c 4
  221 763 282 810 308 810 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: two
@@ -531,6 +551,7 @@ SplineSet
  316 750 241 638 178 612 c 0
  146 599 89 661 114 684 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: three
@@ -555,6 +576,7 @@ SplineSet
  561 704 549 469 453 415 c 0
  407 389 399 412 453 375 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: nine
@@ -576,6 +598,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: eight
@@ -597,6 +620,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: seven
@@ -618,6 +642,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: four
@@ -639,6 +664,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: five
@@ -660,6 +686,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: six
@@ -681,6 +708,7 @@ SplineSet
  586 274 521 49 336 54 c 24
  148 59 91 283 96 471 c 24
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: G
@@ -709,6 +737,7 @@ SplineSet
  544 710 586 664 572 680 c 4
  562 691 142 697 142 695 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: g
@@ -719,6 +748,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 28 71 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: B
@@ -756,6 +786,7 @@ SplineSet
  336 816 600 790 618 790 c 4
  644 790 630 698 632 626 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: C
@@ -783,6 +814,7 @@ SplineSet
  77 124 144 462 120 760 c 4
  118 787 197 791 198 764 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: b
@@ -793,6 +825,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 30 66 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: c
@@ -803,6 +836,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 31 67 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: S
@@ -833,6 +867,7 @@ SplineSet
  126 735 126 784 137 788 c 0
  151 794 579 816 601 780 c 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: s
@@ -843,6 +878,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: D
@@ -868,8 +904,8 @@ SplineSet
  59 130 104 453 80 751 c 0
  78 778 156 782 158 755 c 0
  159 748 159 740 160 733 c 0
- 161 724 515 738 516 729 c 0
- 516 724 513 774 519 782 c 0
+ 161 724 509 729 516 729 c 4
+ 517 729 513 774 519 782 c 0
  525 789 594 793 594 786 c 0
 305 661 m 5
  238 666 163 658 163 655 c 0
