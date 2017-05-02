@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1493720982
+ModificationTime: 1493721052
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 52 13 9
+WinInfo: 26 13 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -93,6 +93,7 @@ SplineSet
  330 705 335 275 335 30 c 0
  335 17 13 26 29 53 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: L
@@ -131,6 +132,7 @@ SplineSet
  319 74 351 202 343 736 c 0
  342 793 377 785 434 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: E
@@ -176,6 +178,7 @@ SplineSet
  356 122 342 531 339 736 c 0
  338 793 373 785 430 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: F
@@ -209,6 +212,7 @@ SplineSet
  255 58 268 397 263 698 c 0
  263 726 141 717 142 709 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: K
@@ -240,6 +244,7 @@ SplineSet
  154 755 103 739 103 736 c 0
  100 682 110 359 110 114 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: e
@@ -250,6 +255,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 2 69 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: J
@@ -279,6 +285,7 @@ SplineSet
  320 76 351 202 343 736 c 0
  342 793 377 785 434 787 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: I
@@ -312,6 +319,7 @@ SplineSet
  562 808 626 777 627 763 c 4
  636 604 631 318 626 43 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: H
@@ -348,6 +356,7 @@ SplineSet
  607 651 616 454 616 258 c 0
  616 220 625 100 648 40 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: A
@@ -386,6 +395,7 @@ SplineSet
  367 84 328 520 332 736 c 4
  333 793 366 785 423 787 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: f
@@ -396,6 +406,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 3 70 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: t
@@ -406,6 +417,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 0 84 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: a
@@ -416,6 +428,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 9 65 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: h
@@ -426,6 +439,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 8 72 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: i
@@ -436,6 +450,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 7 73 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: j
@@ -446,6 +461,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 6 74 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: k
@@ -456,6 +472,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 4 75 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: l
@@ -466,6 +483,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 1 76 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -523,19 +541,19 @@ LayerCount: 2
 Fore
 SplineSet
 114 684 m 0
- 158 726 218.025418982 794.566997023 334 789 c 0
- 488.392578125 781.588867188 612.000053939 567.99996439 476 362 c 0
- 392.754882812 235.908203125 476 362 264 108 c 0
- 241.326997575 80.8351763403 397.86328125 108 530 108 c 0
- 550 108 564.479001356 32.650347944 534 30 c 0
+ 158 726 218 795 334 789 c 0
+ 488 782 612 568 476 362 c 0
+ 393 236 476 362 264 108 c 0
+ 241 81 398 108 530 108 c 0
+ 550 108 564 33 534 30 c 0
  350 14 286 16 134 22 c 0
- 82.4940160897 24.0331309438 94.8885428155 76.1153678464 132 112 c 0
- 253 229 224.385974988 189.670492377 378 370 c 0
- 424 424 466.400799844 581.2576392 398 658 c 0
- 316 750 240.770383262 638.154326359 178 612 c 0
- 146.453125 598.85546875 89.4267578125 660.543945312 114 684 c 0
+ 82 24 95 76 132 112 c 0
+ 253 229 224 190 378 370 c 0
+ 424 424 466 581 398 658 c 0
+ 316 750 241 638 178 612 c 0
+ 146 599 89 661 114 684 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: three
@@ -547,20 +565,20 @@ LayerCount: 2
 Fore
 SplineSet
 453 375 m 0
- 551.015643563 307.841133114 531.674007279 100.220785665 388.6640625 49.0107421875 c 0
- 279.353301127 9.86794794984 201.730748337 48.0140348478 146.01953125 72.43359375 c 0
- 114.90625 86.0712890625 135.859375 147.5625 170 146 c 0
- 237.9296875 142.891601562 349.226609657 81.4286871208 398 178 c 0
- 448 277 390.08647758 308.393406488 314 358 c 0
- 300.881835938 366.552734375 294.626953125 427.4453125 316 438 c 0
- 397 478 451.358380359 552.919758126 433.10546875 618.705078125 c 4
- 405 720 278.570377844 653.830602915 210.640625 650.723632812 c 0
- 176.5 649.162109375 144.011329507 726.634677122 175.125 740.271484375 c 0
- 230.836914062 764.689453125 310.693359375 808.590820312 417.76953125 763.694335938 c 4
- 560.31640625 703.924804688 549.157171998 469.349705912 453 415 c 0
+ 551 308 532 100 389 49 c 0
+ 280 10 202 48 146 72 c 0
+ 115 86 136 148 170 146 c 0
+ 238 143 349 81 398 178 c 0
+ 448 277 390 308 314 358 c 0
+ 301 367 295 427 316 438 c 0
+ 397 478 451 553 433 619 c 4
+ 405 720 279 654 211 651 c 0
+ 177 649 144 726 175 740 c 0
+ 231 764 311 809 418 764 c 4
+ 561 704 549 469 453 415 c 0
  407 389 399 412 453 375 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: nine
@@ -721,6 +739,7 @@ SplineSet
  544 710 586 664 572 680 c 4
  562 691 142 697 142 695 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: g
@@ -731,6 +750,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 28 71 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: B
@@ -768,6 +788,7 @@ SplineSet
  336 816 600 790 618 790 c 4
  644 790 630 698 632 626 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: C
@@ -795,6 +816,7 @@ SplineSet
  77 124 144 462 120 760 c 4
  118 787 197 791 198 764 c 4
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: b
@@ -805,6 +827,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 30 66 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: c
@@ -815,6 +838,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 31 67 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: S
@@ -845,6 +869,7 @@ SplineSet
  126 735 126 784 137 788 c 0
  151 794 579 816 601 780 c 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: s
@@ -855,6 +880,7 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
