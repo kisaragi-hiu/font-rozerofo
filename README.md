@@ -1,7 +1,7 @@
 # Rozerofo
 *Font for Romoji in Re:ZERO*
 
-![v0.1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/v0.1.png)
+![v0.6](https://github.com/flyingfeather1501/font-rozerofo/raw/master/v0.6.png)
 
 ## Credits
 
