@@ -3,28 +3,13 @@
 
 ![v0.6](https://github.com/flyingfeather1501/font-rozerofo/raw/master/preview/v0.6.png)
 
-## Assumption
-
-I'm assuming that this script is Ro because:
-
-- i, ro, ha is 1, 2, 3 in the I-Ro-Ha sorting system [Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8D%E3%81%AF%E9%A0%86)
-- I-script-only is the kiddie way of writing (like Kana-only Japanese), suggesting a Kanji equivalent
-- this one is used in government posters (episode 14)
-- it's hard to imagine anything in between the I script and this one.
-
-## Writing Systems in Lugnica
-
-According to Ram, there are three writing systems in Lugnica:
-
-- I (casual, children's books are written in it)
-- Ro (formal)
-- Ha (formal)
-
-As taida5656 has decoded, the I script corresponds to modern Kana, and the assumed Ro script corresponds to English alphabet.
-
-## See more
+## Credits
 
 Romoji decode by [taida5656](http://d.hatena.ne.jp/taida5656/): <http://d.hatena.ne.jp/taida5656/20160705/p1>
+
+Numbers 0-9 are from GenJyuu Gothic version 1.002.20150607.
+
+## See More
 
 Imoji decode by the same person: <http://d.hatena.ne.jp/taida5656/20160502/p1>
 
