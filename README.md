@@ -7,11 +7,11 @@
 
 Romoji decode by [taida5656](http://d.hatena.ne.jp/taida5656/): <http://d.hatena.ne.jp/taida5656/20160705/p1>
 
+Imoji decode by the same person: <http://d.hatena.ne.jp/taida5656/20160502/p1>
+
 Numbers 0-9 are from GenJyuu Gothic version 1.002.20150607.
 
 ## See More
-
-Imoji decode by the same person: <http://d.hatena.ne.jp/taida5656/20160502/p1>
 
 Imoji font made by [おおかみさん](http://www.nicovideo.jp/watch/sm29711761) that Rozerofo is trying to complement: <https://www.youtube.com/watch?v=Yih6pz09Z1A>
 
