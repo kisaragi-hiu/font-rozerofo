@@ -3,12 +3,6 @@
 
 ![v0.6](https://github.com/flyingfeather1501/font-rozerofo/raw/master/preview/v0.6.png)
 
-## Credits
-
-The script's decode is from [here](http://d.hatena.ne.jp/taida5656/20160705/p1), done by [taida5656](http://d.hatena.ne.jp/taida5656/).
-
-This font is trying to complement the [I script font](https://www.youtube.com/watch?v=Yih6pz09Z1A) by [おおかみさん](http://www.nicovideo.jp/watch/sm29711761).
-
 ## Assumption
 
 I'm assuming that this script is Ro because:
@@ -27,6 +21,14 @@ According to Ram, there are three writing systems in Lugnica:
 - Ha (formal)
 
 As taida5656 has decoded, the I script corresponds to modern Kana, and the assumed Ro script corresponds to English alphabet.
+
+## See more
+
+Romoji decode by [taida5656](http://d.hatena.ne.jp/taida5656/): <http://d.hatena.ne.jp/taida5656/20160705/p1>
+Imoji decode by the same person: <http://d.hatena.ne.jp/taida5656/20160502/p1>
+
+Imoji font made by [おおかみさん](http://www.nicovideo.jp/watch/sm29711761) that Rozerofo is trying to complement: <https://www.youtube.com/watch?v=Yih6pz09Z1A>
+Also a KonoSuba font by [poinddt (SELLY)](https://home.gamer.com.tw/poinddt): <https://forum.gamer.com.tw/C.php?bsn=46218&snA=787>
 
 ## License
 
