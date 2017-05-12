@@ -1,7 +1,7 @@
 # Rozerofo
 *Re:0 ロ文字的字體*
 
-![v0.6](https://github.com/flyingfeather1501/font-rozerofo/raw/master/preview/v0.6.png)
+![v1.1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/preview/v1.1.png)
 
 ## 感謝
 

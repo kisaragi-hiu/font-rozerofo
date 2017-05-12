@@ -3,7 +3,7 @@
 
 [中文](https://github.com/flyingfeather1501/font-rozerofo/blob/master/README-zh.md)
 
-![v0.6](https://github.com/flyingfeather1501/font-rozerofo/raw/master/preview/v0.6.png)
+![v1.1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/preview/v1.1.png)
 
 ## Credits
 
