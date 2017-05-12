@@ -15,7 +15,7 @@
 
 ## 看更多
 
-[おおかみさん](http://www.nicovideo.jp/watch/sm29711761)做的，Rozerofo 想要搭配的イ文字的字體：
+[おおかみさん](http://www.nicovideo.jp/user/22222188)做的，Rozerofo 想要搭配的イ文字的字體：
 <https://www.youtube.com/watch?v=Yih6pz09Z1A>
 
 還有[poinddt (SELLY)](https://home.gamer.com.tw/poinddt)做的素晴的字體：
