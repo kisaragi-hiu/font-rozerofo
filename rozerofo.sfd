@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1494581700
+ModificationTime: 1494581807
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -95,7 +95,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "GenJyuuGothic-Regular-'mkmk' Mark to Mark lookup 1 subtable" "Anchor-1" "GenJyuuGothic-Regular-'mark' Mark Positioning lookup 2 subtable" "Anchor-2" "GenJyuuGothic-Regular-'mark' Mark Positioning lookup 3 subtable" "Anchor-3" "GenJyuuGothic-Regular-'mkmk' Mark to Mark lookup 4 subtable"
-BeginChars: 256 48
+BeginChars: 256 49
 
 StartChar: T
 Encoding: 84 84 0
@@ -924,7 +924,7 @@ StartChar: G
 Encoding: 71 71 28
 Width: 673
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -941,8 +941,8 @@ SplineSet
  62 384 49 769 68 770 c 0
  145 772 539 762 620 759 c 0
  632 759 647 641 645 581 c 0
- 644 548 571 537 564 570 c 0
- 536 707 556 662 542 678 c 0
+ 644 548 574.458314152 537.927836601 564 570 c 4
+ 549 616 556 662 542 678 c 0
  532 689 142 697 142 695 c 0
 EndSplineSet
 EndChar
@@ -1327,6 +1327,33 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 46 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z
+Encoding: 90 90 48
+Width: 673
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+555 320 m 0
+ 558 320 563 126 558 126 c 0
+ 332 132 304 130 146 133 c 0
+ 140 133 137 316 138 319 c 0
+ 140 324 543 320 555 320 c 0
+559 695 m 0
+ 557 585 557 494 557 421 c 0
+ 557 387 57 407 57 371 c 0
+ 58 299 48 47 76 51 c 0
+ 114 56 646 22 645 63 c 0
+ 639 384 652 769 633 770 c 0
+ 556 772 162 762 81 759 c 0
+ 69 759 54 641 56 581 c 0
+ 57 548 127.971233493 537.496440574 137 570 c 4
+ 142 588 139.984217082 668.492108541 159 678 c 0
+ 173 685 559 697 559 695 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
