@@ -5,7 +5,7 @@ FamilyName: Rozerofo
 Weight: Regular
 Copyright: Copyright (c) 2017, Kisaragi Hiu\n\nGlyphs of numbers 0..9 are from GenJyuu Gothic version 1.002.20150607.
 UComments: "2017-4-29: Created with FontForge (http://fontforge.org)"
-Version: 1.0
+Version: 1.1
 ItalicAngle: -31.4
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1494584527
+ModificationTime: 1494585274
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -289,13 +289,12 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 5
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 2 69 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: J
@@ -438,90 +437,82 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 10
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 3 70 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: t
 Encoding: 116 116 11
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 84 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: a
 Encoding: 97 97 12
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 9 65 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: h
 Encoding: 104 104 13
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 8 72 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: i
 Encoding: 105 105 14
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 7 73 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: j
 Encoding: 106 106 15
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 6 74 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: k
 Encoding: 107 107 16
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 4 75 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: l
 Encoding: 108 108 17
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1 76 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: cid00017
@@ -977,13 +968,12 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 29
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 28 71 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: B
@@ -1054,24 +1044,22 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 32
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 30 66 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: c
 Encoding: 99 99 33
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 31 67 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: S
@@ -1107,13 +1095,12 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 35
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 34 83 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: D
@@ -1153,13 +1140,12 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 37
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 36 68 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: O
@@ -1232,24 +1218,22 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 40
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 39 85 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: o
 Encoding: 111 111 41
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 38 79 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: M
@@ -1283,13 +1267,12 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 43
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 42 77 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: N
@@ -1330,13 +1313,12 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 45
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 44 78 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: R
@@ -1367,13 +1349,12 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 47
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 46 82 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: Z
@@ -1412,20 +1393,19 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 49
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 48 90 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: W
 Encoding: 87 87 50
 Width: 673
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1454,13 +1434,12 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 51
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 50 87 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: V
@@ -1497,13 +1476,12 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 53
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 52 86 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: P
@@ -1545,13 +1523,12 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 55
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 54 80 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: Y
@@ -1584,13 +1561,12 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 57
-Width: 1024
+Width: 673
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 56 89 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 EndChars
 EndSplineFont
