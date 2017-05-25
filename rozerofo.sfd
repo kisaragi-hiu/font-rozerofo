@@ -5,7 +5,7 @@ FamilyName: Rozerofo
 Weight: Regular
 Copyright: Copyright (c) 2017, Kisaragi Hiu\n\nGlyphs of numbers 0..9 are from GenJyuu Gothic version 1.002.20150607.
 UComments: "2017-4-29: Created with FontForge (http://fontforge.org)"
-Version: 1.1
+Version: 1.2beta
 ItalicAngle: -31.4
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1495729132
+ModificationTime: 1495729397
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1614,10 +1614,10 @@ LayerCount: 2
 Fore
 SplineSet
 46 213 m 4
- 43 224 111 254 115 243 c 0
- 131 204 171 107 203 86 c 0
- 212 80 159 33 144 42 c 0
- 109 63 56 172 46 213 c 4
+ 45 219 107 249 109 243 c 4
+ 124 197 162 126 195 86 c 4
+ 198 83 147 39 144 42 c 4
+ 106 82 58 163 46 213 c 4
 EndSplineSet
 EndChar
 EndChars
