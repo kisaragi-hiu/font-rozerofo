@@ -5,7 +5,7 @@
 
 雷姆：
 
-> 嗯，雷姆相信昴君。
+> 嗯，雷姆相信昴君。  
 > はい、レムはスバルくんを信じています。
 
 ![remquote1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/demo/ep14rem-believe.png)
