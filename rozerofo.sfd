@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1493454996
-ModificationTime: 1495729397
+ModificationTime: 1495730164
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -90,12 +90,12 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 13 9
+WinInfo: 13 13 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "GenJyuuGothic-Regular-'mkmk' Mark to Mark lookup 1 subtable" "Anchor-1" "GenJyuuGothic-Regular-'mark' Mark Positioning lookup 2 subtable" "Anchor-2" "GenJyuuGothic-Regular-'mark' Mark Positioning lookup 3 subtable" "Anchor-3" "GenJyuuGothic-Regular-'mkmk' Mark to Mark lookup 4 subtable"
-BeginChars: 256 60
+BeginChars: 256 61
 
 StartChar: T
 Encoding: 84 84 0
@@ -1595,11 +1595,9 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 58
-Width: 220
+Width: 673
 VWidth: 0
 Flags: HW
-AnchorPoint: "Anchor-2" 107 473 basechar 0
-AnchorPoint: "Anchor-1" 107 0 basechar 0
 LayerCount: 2
 Fore
 Validated: 1
@@ -1618,6 +1616,28 @@ SplineSet
  124 197 162 126 195 86 c 4
  198 83 147 39 144 42 c 4
  106 82 58 163 46 213 c 4
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: period
+Encoding: 46 46 60
+Width: 673
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+124 93 m 16
+ 149 93 170 114 169 139 c 28
+ 168 165 148 187 121 187 c 0
+ 97 187 76 166 76 141 c 8
+ 76 115 98 94 124 93 c 16
+45 143 m 0
+ 45 184 78 218 119 218 c 0
+ 164 218 200 182 201 138 c 16
+ 201 96 166 62 124 62 c 8
+ 79 63 45 98 45 143 c 0
 EndSplineSet
 EndChar
 EndChars
