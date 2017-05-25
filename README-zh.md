@@ -1,7 +1,14 @@
 # Rozerofo
 *Re:0 ロ文字的字體*
 
-![v1.1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/demo/v1.1.png)
+## Demo
+
+雷姆：
+
+> 嗯，雷姆相信昴君。
+> はい、レムはスバルくんを信じています。
+
+![remquote1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/demo/ep14rem-believe.png)
 
 ## 感謝
 
