@@ -3,6 +3,13 @@
 
 [中文](https://github.com/flyingfeather1501/font-rozerofo/blob/master/README-zh.md)
 
+## Demo
+
+Rem:
+
+> ... Yes, Rem believes in Subaru-kun.
+> はい、レムはスバルくんを信じています。
+
 ![v1.1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/demo/ep14rem-believe.png)
 
 ## Credits
