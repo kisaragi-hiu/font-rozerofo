@@ -1,13 +1,13 @@
 # Rozerofo
 *Font for Romoji in Re:ZERO*
 
-[中文](https://github.com/flyingfeather1501/font-rozerofo/blob/master/README-zh.md)
+[中文](https://github.com/kisaragi-hiu/font-rozerofo/blob/master/README-zh.md)
 
 ## Demo
 
 Rem:
 
-![remquote1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/demo/ep14rem-believe.png)
+![remquote1](https://github.com/kisaragi-hiu/font-rozerofo/raw/master/demo/ep14rem-believe.png)
 
 > ... Yes, Rem believes in Subaru-kun.  
 > はい、レムはスバルくんを信じています。
@@ -28,7 +28,7 @@ Also a KonoSuba font by [poinddt (SELLY)](https://home.gamer.com.tw/poinddt): <h
 
 ## License
 
-Copyright (c) 2017, Kisaragi Hiu (previously Moonlight Feather) [flyingfeather1501@gmail.com],
+Copyright (c) 2017, Kisaragi Hiu (previously Moonlight Feather) [mail@kisaragi-hiu.com],
 with Reserved Font Name Rozerofo.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

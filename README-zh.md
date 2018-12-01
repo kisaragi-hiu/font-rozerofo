@@ -5,7 +5,7 @@
 
 雷姆：
 
-![remquote1](https://github.com/flyingfeather1501/font-rozerofo/raw/master/demo/ep14rem-believe.png)
+![remquote1](https://github.com/kisaragi-hiu/font-rozerofo/raw/master/demo/ep14rem-believe.png)
 
 > 嗯，雷姆相信昴君。  
 > はい、レムはスバルくんを信じています。
@@ -30,7 +30,7 @@
 
 ## 授權
 
-Copyright (c) 2017, Kisaragi Hiu (previously Moonlight Feather) [flyingfeather1501@gmail.com],
+Copyright (c) 2017, Kisaragi Hiu (previously Moonlight Feather) [mail@kisaragi-hiu.com],
 with Reserved Font Name Rozerofo.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
